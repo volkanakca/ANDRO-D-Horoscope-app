@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bubble">
+        <item>#41ffffff</item>
+        <item>#18ffffff</item>
+        <item>#1fffffff</item>
+        <item>#25ffffff</item>
+    </string-array>
+    <string-array name="BubbleAnimations">
+        <item>com.github.glomadrian.grav.generator.animation.SideToSideAnimator</item>
+        <item>com.github.glomadrian.grav.generator.animation.ShakeAnimator</item>
+    </string-array>
+
+    <string-array name="burclar">
+        <item>Koç</item>
+        <item>Boğa</item>
+        <item>İkizler</item>
+        <item>Yengeç</item>
+        <item>Aslan</item>
+        <item>Başak</item>
+        <item>Terazi</item>
+        <item>Akrep</item>
+        <item>Yay</item>
+        <item>Oğlak</item>
+        <item>Kova</item>
+        <item>Balık</item>
+
+
+
+    </string-array>
+    <string-array name="burcTarih">
+        <item>21 Mart - 20 Nisan</item>
+        <item>21 Nisan - 21 Mayıs</item>
+        <item>22 Mayıs - 22 Haziran</item>
+        <item>23 Haziran - 22 Temmuz</item>
+        <item>23 Temmuz - 22 Ağustos</item>
+        <item>23 Ağustos - 22 Eylül</item>
+        <item>23 Eylül - 22 Ekim</item>
+        <item>23 Ekim - 21 Kasım</item>
+        <item>22 Kasım - 21 Aralık</item>
+        <item>22 Aralık - 21 Ocak</item>
+        <item>22 Ocak - 19 Şubat</item>
+        <item>20 Şubat - 20 Mart</item>
+
+
+    </string-array>
+    <string-array name="burcGenelOzellikller">
+        <item>\tGenel Özellikler\n\n
+        \tYönetici Yıldızınız:Mars\n\n
+        \tgrubunuz:Ates\n\n
+        \tUgurlu gununuz:Salı\n\n
+        \tUgurlu sayınız:8\n\n
+        \tUgurlu renginiz:Ateş kırmızısı\n\n
+        \tUgurlu taşlarınız:Opal,elmas,safir\n\n
+        \tUgurlu çiçekleriniz:Lale,papatya\n\n
+        \tUgurlu kokularınız:Manolya,lavanta,ıtır\n\n
+        \tOlumlu özelliginiz:Cesaret\n\n
+        \tOlumsuz özelliginiz:Acelecilik\n\n
+        \tAnlaştıgınız burclar:Aslan,Yay\n\n
+        \tAnlaşamadıgınız burclar:Yengeç,terazi,oglak\n\n
+        \tBaşarılı olacagınız meslekler:Politikacılık,yoneticilik,işletme\n\n
+        \tBurcunuzdan olan unluler:Fatih Sultan Mehmet,Sakıp Sabancı\n\n
+
+        </item>
+        <item>\tGenel Özellikler\n\n
+        \tYönetici Yıldızınız:Venüs\n\n
+        \tgrubunuz:Toprak\n\n
+        \tUgurlu gununuz:Cuma\n\n
+        \tUgurlu sayınız:6\n\
+        \tUgurlu renginiz:Pastel Mavi,lila\n\n
+        \tUgurlu taşlarınız:Krizokol,turkuaz,saf\n\n
+        \tUgurlu çiçekleriniz:kırmızı gül,pembe karanfil ve sebboy\n\n
+        \tUgurlu kokularınız:Karanfil,elma çiçeği\n\n
+        \tOlumlu özelliginiz:Güvenilirlik\n\n
+        \tOlumsuz özelliginiz:İnatçılık\n\n
+        \tAnlaştıgınız burclar:Yengeç,balık\n\n
+        \tAnlaşamadıgınız burclar:Kova,Aslan,Akrep\n\n
+        \tBaşarılı olacagınız meslekler:Askerlik,Doktorluk\n\n
+        \tBurcunuzdan olan unluler:Nükhet Duru,Ozturk Serengil\n\n
+        </item>
+        <item>\tGenel Özellikler\n\n
+        \tYönetici Yıldızınız:Merkür\n\n
+        \tgrubunuz:hava\n\n
+        \tUgurlu gununuz:Çarşamba\n\n
+        \tUgurlu sayınız:5\n\
+        \tUgurlu renginiz:Sarı\n\n
+        \tUgurlu taşlarınız:Kuvars,Akik,Turkuaz\n\n
+        \tUgurlu çiçekleriniz:Çiğdem,mimoza\n\n
+        \tUgurlu kokularınız:Gardenya,sümbül\n\n
+        \tOlumlu özelliginiz:Konuşkan\n\n
+        \tOlumsuz özelliginiz:Karasız\n\n
+        \tAnlaştıgınız burclar:Terazi,kova\n\n
+        \tAnlaşamadıgınız burclar:Başak,Yay,Akrep\n\n
+        \tBaşarılı olacagınız meslekler:Yazarlık,Bankacılık\n\n
+        \tBurcunuzdan olan unluler:Adile Naşit,Bülent Ecevit\n\n
+        </item>
+        <item>\tGenel Özellikler\n\n
+        \tYönetici Yıldızınız:Merkür\n\n
+        \tgrubunuz:hava\n\n
+        \tUgurlu gununuz:Çarşamba\n\n
+        \tUgurlu sayınız:5\n\
+        \tUgurlu renginiz:Sarı\n\n
+        \tUgurlu taşlarınız:Kuvars,Akik,Turkuaz\n\n
+        \tUgurlu çiçekleriniz:Çiğdem,mimoza\n\n
+        \tUgurlu kokularınız:Gardenya,sümbül\n\n
+        \tOlumlu özelliginiz:Konuşkan\n\n
+        \tOlumsuz özelliginiz:Karasız\n\n
+        \tAnlaştıgınız burclar:Terazi,kova\n\n
+        \tAnlaşamadıgınız burclar:Başak,Yay,Akrep\n\n
+        \tBaşarılı olacagınız meslekler:Yazarlık,Bankacılık\n\n
+        \tBurcunuzdan olan unluler:Adile Naşit,Bülent Ecevit\n\n
+        </item>
+        <item>\tGenel Özellikler\n\n
+        \tYönetici Yıldızınız:Merkür\n\n
+        \tgrubunuz:hava\n\n
+        \tUgurlu gununuz:Çarşamba\n\n
+        \tUgurlu sayınız:5\n\
+        \tUgurlu renginiz:Sarı\n\n
+        \tUgurlu taşlarınız:Kuvars,Akik,Turkuaz\n\n
+        \tUgurlu çiçekleriniz:Çiğdem,mimoza\n\n
+        \tUgurlu kokularınız:Gardenya,sümbül\n\n
+        \tOlumlu özelliginiz:Konuşkan\n\n
+        \tOlumsuz özelliginiz:Karasız\n\n
+        \tAnlaştıgınız burclar:Terazi,kova\n\n
+        \tAnlaşamadıgınız burclar:Başak,Yay,Akrep\n\n
+        \tBaşarılı olacagınız meslekler:Yazarlık,Bankacılık\n\n
+        \tBurcunuzdan olan unluler:Adile Naşit,Bülent Ecevit\n\n
+        </item>
+        <item>\tGenel Özellikler\n\n
+        \tYönetici Yıldızınız:Merkür\n\n
+        \tgrubunuz:hava\n\n
+        \tUgurlu gununuz:Çarşamba\n\n
+        \tUgurlu sayınız:5\n\
+        \tUgurlu renginiz:Sarı\n\n
+        \tUgurlu taşlarınız:Kuvars,Akik,Turkuaz\n\n
+        \tUgurlu çiçekleriniz:Çiğdem,mimoza\n\n
+        \tUgurlu kokularınız:Gardenya,sümbül\n\n
+        \tOlumlu özelliginiz:Konuşkan\n\n
+        \tOlumsuz özelliginiz:Karasız\n\n
+        \tAnlaştıgınız burclar:Terazi,kova\n\n
+        \tAnlaşamadıgınız burclar:Başak,Yay,Akrep\n\n
+        \tBaşarılı olacagınız meslekler:Yazarlık,Bankacılık\n\n
+        \tBurcunuzdan olan unluler:Adile Naşit,Bülent Ecevit\n\n
+        </item>
+        <item>\tGenel Özellikler\n\n
+        \tYönetici Yıldızınız:Merkür\n\n
+        \tgrubunuz:hava\n\n
+        \tUgurlu gununuz:Çarşamba\n\n
+        \tUgurlu sayınız:5\n\
+        \tUgurlu renginiz:Sarı\n\n
+        \tUgurlu taşlarınız:Kuvars,Akik,Turkuaz\n\n
+        \tUgurlu çiçekleriniz:Çiğdem,mimoza\n\n
+        \tUgurlu kokularınız:Gardenya,sümbül\n\n
+        \tOlumlu özelliginiz:Konuşkan\n\n
+        \tOlumsuz özelliginiz:Karasız\n\n
+        \tAnlaştıgınız burclar:Terazi,kova\n\n
+        \tAnlaşamadıgınız burclar:Başak,Yay,Akrep\n\n
+        \tBaşarılı olacagınız meslekler:Yazarlık,Bankacılık\n\n
+        \tBurcunuzdan olan unluler:Adile Naşit,Bülent Ecevit\n\n
+        </item>
+        <item>\tGenel Özellikler\n\n
+        \tYönetici Yıldızınız:Merkür\n\n
+        \tgrubunuz:hava\n\n
+        \tUgurlu gununuz:Çarşamba\n\n
+        \tUgurlu sayınız:5\n\
+        \tUgurlu renginiz:Sarı\n\n
+        \tUgurlu taşlarınız:Kuvars,Akik,Turkuaz\n\n
+        \tUgurlu çiçekleriniz:Çiğdem,mimoza\n\n
+        \tUgurlu kokularınız:Gardenya,sümbül\n\n
+        \tOlumlu özelliginiz:Konuşkan\n\n
+        \tOlumsuz özelliginiz:Karasız\n\n
+        \tAnlaştıgınız burclar:Terazi,kova\n\n
+        \tAnlaşamadıgınız burclar:Başak,Yay,Akrep\n\n
+        \tBaşarılı olacagınız meslekler:Yazarlık,Bankacılık\n\n
+        \tBurcunuzdan olan unluler:Adile Naşit,Bülent Ecevit\n\n
+        </item>
+        <item>\tGenel Özellikler\n\n
+        \tYönetici Yıldızınız:Merkür\n\n
+        \tgrubunuz:hava\n\n
+        \tUgurlu gununuz:Çarşamba\n\n
+        \tUgurlu sayınız:5\n\
+        \tUgurlu renginiz:Sarı\n\n
+        \tUgurlu taşlarınız:Kuvars,Akik,Turkuaz\n\n
+        \tUgurlu çiçekleriniz:Çiğdem,mimoza\n\n
+        \tUgurlu kokularınız:Gardenya,sümbül\n\n
+        \tOlumlu özelliginiz:Konuşkan\n\n
+        \tOlumsuz özelliginiz:Karasız\n\n
+        \tAnlaştıgınız burclar:Terazi,kova\n\n
+        \tAnlaşamadıgınız burclar:Başak,Yay,Akrep\n\n
+        \tBaşarılı olacagınız meslekler:Yazarlık,Bankacılık\n\n
+        \tBurcunuzdan olan unluler:Adile Naşit,Bülent Ecevit\n\n
+        </item>
+        <item>\tGenel Özellikler\n\n
+        \tYönetici Yıldızınız:Merkür\n\n
+        \tgrubunuz:hava\n\n
+        \tUgurlu gununuz:Çarşamba\n\n
+        \tUgurlu sayınız:5\n\
+        \tUgurlu renginiz:Sarı\n\n
+        \tUgurlu taşlarınız:Kuvars,Akik,Turkuaz\n\n
+        \tUgurlu çiçekleriniz:Çiğdem,mimoza\n\n
+        \tUgurlu kokularınız:Gardenya,sümbül\n\n
+        \tOlumlu özelliginiz:Konuşkan\n\n
+        \tOlumsuz özelliginiz:Karasız\n\n
+        \tAnlaştıgınız burclar:Terazi,kova\n\n
+        \tAnlaşamadıgınız burclar:Başak,Yay,Akrep\n\n
+        \tBaşarılı olacagınız meslekler:Yazarlık,Bankacılık\n\n
+        \tBurcunuzdan olan unluler:Adile Naşit,Bülent Ecevit\n\n
+        </item>
+        <item>\tGenel Özellikler\n\n
+        \tYönetici Yıldızınız:Uranüs\n\n
+        \tgrubunuz:hava\n\n
+        \tUgurlu gununuz:Pazar\n\n
+        \tUgurlu sayınız:4\n\
+        \tUgurlu renginiz:Lacivert\n\n
+        \tUgurlu taşlarınız:Ametist,Akik,Turkuaz\n\n
+        \tUgurlu çiçekleriniz:Çiğdem,mimoza\n\n
+        \tUgurlu kokularınız:Gardenya,sümbül\n\n
+        \tOlumlu özelliginiz:Konuşkan\n\n
+        \tOlumsuz özelliginiz:Karasız\n\n
+        \tAnlaştıgınız burclar:Terazi,kova\n\n
+        \tAnlaşamadıgınız burclar:Başak,Yay,Akrep\n\n
+        \tBaşarılı olacagınız meslekler:Yazarlık,Bankacılık\n\n
+        \tBurcunuzdan olan unluler:Adile Naşit,Bülent Ecevit\n\n
+        </item>
+        <item>\tGenel Özellikler\n\n
+        \tYönetici Yıldızınız:Neptün\n\n
+        \tgrubunuz:Su\n\n
+        \tUgurlu gununuz:Perşembe\n\n
+        \tUgurlu sayınız:7\n\
+        \tUgurlu renginiz:Sarı\n\n
+        \tUgurlu taşlarınız:turkuaz,amatist\n\n
+        \tUgurlu çiçekleriniz:İnci cicegi,zambak\n\n
+        \tUgurlu kokularınız:Kiraz cıcegi,sümbül\n\n
+        \tOlumlu özelliginiz:Şefkatli\n\n
+        \tOlumsuz özelliginiz:Küçümseme\n\n
+        \tAnlaştıgınız burclar:Yengeç,Akrep\n\n
+        \tAnlaşamadıgınız burclar:İkizler,Basak,Yay\n\n
+        \tBaşarılı olacagınız meslekler:Ögretmenlık,muzisyen\n\n
+        \tBurcunuzdan olan unluler:Beyazıt Ozturk,Hidayet Turkoglu\n\n
+        </item>
+
+
+
+
+    </string-array>
+</resources>
