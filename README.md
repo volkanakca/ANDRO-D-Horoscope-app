@@ -1,2 +1,2 @@
-# ANDROİD-Horoscope app
+# ANDROID-Horoscope app
  ANDROİD-Horoscope app
